@@ -33,33 +33,28 @@ I enjoy solving real-world problems, improving system structure, and continuousl
 
 ## 🛠 Tech Stack
 
-**Frontend**
+### 💻 Primary
 - Next.js
 - React
 - TypeScript
-- HTML5
 
-**Backend**
-- Node.js
-- PHP
-
-**Mobile**
+### 📱 Secondary
 - Flutter
 - Dart
+- PHP
 
-**Embedded / IoT**
+### 🧠 Familiar With
 - Arduino
+- C
+- C++
+- C#
+- HTML5
 
 **Tools**
 - Git
 - Docker
 - PostgreSQL
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drunrapakon-dev&show_icons=true)
+- Figma
 
 ---
 
