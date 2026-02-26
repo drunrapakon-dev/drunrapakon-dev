@@ -1,4 +1,4 @@
-# Hi, I'm Drunrapakon 👋
+# Hi, I'm Drunrapakon Sangraung 👋
 
 🚀 Web Developer (Next.js) at Smartsoft Asia  
 🎓 Computer Science Graduate from Chiang Mai University  
