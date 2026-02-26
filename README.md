@@ -1,33 +1,59 @@
-# Hi, I'm Drunrapakon Sangraung 👋
+# Hi, I'm Drunrapakon 👋
 
 🚀 Web Developer (Next.js) at Smartsoft Asia  
-🎓 Computer Science Graduate from Chiang Mai University  
-🏆 2nd Place Regional IoT Competition (High School – Smart Science Program)  
+🎓 Computer Science Graduate – Chiang Mai University  
+🏆 2nd Place (Regional Level) – IoT Competition  
 
 ---
 
 ## 🧠 About Me
 
-I started my journey in technology through IoT development during high school, working extensively with Arduino and embedded systems.  
-Over time, I expanded into web technologies including PHP and HTML5, and later specialized in modern web development.
+I started my programming journey at the age of 13, competing in IoT and web development projects since middle school under the Smart Science Program at Chiang Kham Wittayakhom School.
 
-Currently, I work as a Web Developer specializing in Next.js, contributing to multiple production-level projects and leading one full-cycle project independently from development to delivery.
+During high school, I actively participated in multiple IoT competitions and achieved **2nd place at the regional level** in a national academic competition.
 
-I enjoy solving real-world problems, improving system structure, and continuously learning new technologies.
+I continued expanding my technical foundation at Chiang Mai University, majoring in Computer Science, where I worked on robotics systems, game development (including VR), mobile applications, and full-stack web projects.
+
+Currently, I work as a Web Developer specializing in Next.js at Smartsoft Asia, contributing to production-level projects and leading one project independently from development to delivery.
+
+I am passionate about building scalable web systems, solving real-world problems, and continuously improving both technical and leadership skills.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Web Developer – Smartsoft Asia
 - Contributed to 3–4 production projects (feature implementation)
-- Led 1 full project independently
+- Led one full-cycle project independently
 - Mentored interns and managed project responsibilities
-- Worked under client pressure and delivery deadlines
+- Delivered under client pressure and tight deadlines
 
-### Mobile Developer Intern (Flutter/Dart)
-- Contributed to mobile application development
-- Assisted in project design planning
+### Mobile Developer Intern – Smartsoft Asia
+- Developed mobile applications using Flutter/Dart
+- Assisted in project design and implementation planning
+
+---
+
+## 🎓 Academic Project Experience
+
+### 🤖 Robotics & IoT
+- Developed IoT systems and embedded solutions using Arduino
+- Participated in multiple competitions since middle school
+- Built robotic control systems using LEGO robotics platform
+
+### 🎮 Game Development
+- Developed desktop games during coursework
+- Built 2D/3D games using Unity (C#)
+- Created a VR-based interactive project
+- Applied OOP, state management, and performance considerations
+
+### 📱 Mobile Development
+- Built mobile applications as part of university coursework
+
+### 🛒 Web Development
+- Developed an e-commerce web application (Shopee-like platform)
+- Implemented product listing, cart, and transaction flow
+- Worked with PHP and HTML5 before transitioning to modern frameworks
 
 ---
 
@@ -43,22 +69,17 @@ I enjoy solving real-world problems, improving system structure, and continuousl
 - Dart
 - PHP
 
-### 🧠 Familiar With
+### 🧠 Foundation
 - Arduino
 - C
 - C++
 - C#
+- Unity
 - HTML5
-
-**Tools**
-- Git
-- Docker
-- PostgreSQL
-- Figma
 
 ---
 
-## 🌱 Currently Improving
+## 📈 Currently Improving
 
 - Scalable Web Architecture
 - System Design
