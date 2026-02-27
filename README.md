@@ -68,6 +68,7 @@ I am passionate about building scalable web systems, solving real-world problems
 - Flutter
 - Dart
 - PHP
+- Wordpress
 
 ### 🧠 Foundation
 - Arduino
